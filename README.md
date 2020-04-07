@@ -15,6 +15,12 @@ model for the task, and significant diagnostic predictions can be made with the 
 network architecture. Transfer learning proved to be beneficial and offered increased classification performance, regardless of the apparent domain discrepancy.
 
 
+![AUROC Result](./_Mobile_custom5_AUROC.png)
+
+
+![Class Activation Maps](./cams.png)
+
+
 A full report of the findings is available in the following dissertation: https://drive.google.com/open?id=115NfM_HbA3DD2OePtvNM2nGgdZ93Cfg5
 
 
