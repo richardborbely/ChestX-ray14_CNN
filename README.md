@@ -12,7 +12,7 @@ means to try and improve model performance.
 
 The test results demonstrate, that a shortened version of MobileNet is the most suitable
 model for the task, and significant diagnostic predictions can be made with the proposed
-network architecture. Transfer learning proved to be beneficial and offered increased classification performance, regardless of the apparent domain discrepancy
+network architecture. Transfer learning proved to be beneficial and offered increased classification performance, regardless of the apparent domain discrepancy.
 
 
 To run the jupyter notebook, which contains the project:
