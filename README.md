@@ -28,6 +28,10 @@ To run the jupyter notebook, which contains the project:
   - Run "jupyter notebook" and open the project
   
 To import the best performing model:
+  - Download trained models: https://drive.google.com/open?id=1pVtfHhocxyK3h_7b86RKaYe_8lxXkRZL
+  
+  - Unzip contents to Sessions folder
+  
   - Run "Load session model" cell with "_Mobile_transfer" session parameter
   
   - Run "Import session model" cell
